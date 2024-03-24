@@ -12,8 +12,8 @@ function Nav() {
       <div className="nav animate__animated animate__fadeInDown  animate__slow">
         <div className="left">
           <NavLink to="/" style={{ textDecoration: "none", fontStyle:"oblique" }}>
-            <img src="dist\assets\chetan-kaushik-high-resolution-logo.png" alt="" style={{ width:"110px" }}/>
-            {/* <p>Chetan Kaushik</p>  */}
+            {/* <img src="dist\assets\chetan-kaushik-high-resolution-logo.png" alt="" style={{ width:"110px" }}/> */}
+            <p>Chetan Kaushik</p> 
           </NavLink>
         </div>
         <div className="menu" onClick={()=>{
