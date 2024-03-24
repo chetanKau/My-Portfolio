@@ -61,8 +61,8 @@ function AllProjects() {
       img: "",
       Projectname: "Portfolio",
       Tech: "React",
-      githubLink: "https://github.com/tejal29may/PortFolio_React",
-      HostedLink: "https://port-folio-react-ten.vercel.app/",
+      githubLink: "https://github.com/chetanKau/My-Portfolio",
+      HostedLink: "https://chetan-kaushik-portfolio.netlify.app/",
     },
   ];
 
