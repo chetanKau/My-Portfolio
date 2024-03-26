@@ -54,7 +54,7 @@ export default function Example() {
                     </p>
                 </AccordionItemPanel>
             </AccordionItem>
-            <AccordionItem style={{border:"2px solid white"}}>
+            {/* <AccordionItem style={{border:"2px solid white"}}>
                 <AccordionItemHeading>
                     <AccordionItemButton style={{backgroundColor:"rgb(29, 29, 29)", color:"rgb(19, 185, 185)", fontSize:"30px"}}>
                      Tailwind
@@ -65,7 +65,7 @@ export default function Example() {
                         <TailwindProject/>
                     </p>
                 </AccordionItemPanel>
-            </AccordionItem>
+            </AccordionItem> */}
             <AccordionItem style={{border:"2px solid white"}}>
                 <AccordionItemHeading>
                     <AccordionItemButton style={{backgroundColor:"rgb(29, 29, 29)", color:"rgb(19, 185, 185)", fontSize:"30px"}}>
